@@ -26,11 +26,12 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** and a **
 ## 💻 Projects
 
 Here are a few highlights from my repositories:  
-- **[Budget Tracker](https://github.com/your-username/budget-tracker)**: A React-based app for managing budgets and expenses.  
-- **[IoT Monitoring System](https://github.com/your-username/iot-monitoring)**: A project that combines IoT and networking for real-time monitoring.  
-- **[Personal Portfolio](https://github.com/your-username/portfolio)**: A showcase of my work and skills built using Next.js.  
+- **[GymBro](https://github.com/7afidhou/gymbro)**: A fitness app designed to help users start their workouts and achieve their fitness goals.  
+- **[Simple Card](https://github.com/7afidhou/Card)**: A lightweight and minimalist card component designed for seamless UI integration.  
 
-Feel free to explore my [repositories](https://github.com/your-username?tab=repositories) for more!  
+
+Feel free to explore my [repositories](https://github.com/7afidhou?tab=repositories) for more!  
+
 
 ---
 
