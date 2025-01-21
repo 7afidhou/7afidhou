@@ -36,8 +36,8 @@ Feel free to explore my [repositories](https://github.com/7afidhou?tab=repositor
 ---
 
 ## 📫 How to Reach Me
-- 📧 Email: [your-email@example.com](mailto:abdelhafidhhaouari2@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/](https://www.linkedin.com/in/abdelhafidh-mohamed-haouari-51283a314/))
+- 📧 Email: [abdelhafidhhaouari2@gmail.com](mailto:abdelhafidhhaouari2@gmail.com)
+- 💼 LinkedIn: [Abdelhafidh Mohamed Haouari](https://www.linkedin.com/in/abdelhafidh-mohamed-haouari-51283a314/)
 
 ---
 
