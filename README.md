@@ -28,6 +28,7 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** and a **
 Here are a few highlights from my repositories:  
 - **[GymBro](https://github.com/7afidhou/gymbro)**: A fitness app designed to help users start their workouts and achieve their fitness goals.  
 - **[Simple Card](https://github.com/7afidhou/Card)**: A lightweight and minimalist card component designed for seamless UI integration.  
+- **[PCAP File analyzer](https://github.com/7afidhou/PcapAnalyzer)**: Flask-based web application for analyzing PCAP (Packet Capture) files. 
 
 
 Feel free to explore my [repositories](https://github.com/7afidhou?tab=repositories) for more!  
