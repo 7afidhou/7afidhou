@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Hafidh
 
-Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** and a **Network Enthusiast** with a knack for creating efficient, scalable web applications and exploring the depths of networking technologies.
+Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** and a **Network and CyberSecurity Enthusiast** with a knack for creating efficient, scalable web applications and exploring the depths of networking technologies.
 
 ---
 
